@@ -1,18 +1,5 @@
-#Econ-resources
-This repository library includes economic papers, videos, and other related resources.
+#TTU Department of Economics GPTIs and TAs
+This repository library includes information for Graduate Part-time Instructors (GPTIs) and Teaching Assistants (TAs) for the Department of Economics at Texas Tech.
 
 ###Overview
-
-The organization and structure will change as more resources are added. However, initially, it will be broken down in the following ways:
-
-##Resource Library
-
-###Macroeconomics
--`/Journal articles/`
--`/Videos/`
--`/Misc. resources/`
-
-###Microeconomics
--`/Journal articles/`
--`/Videos/`
--`/Misc. resources/`
+Currently, the only thing in this repository is a [list of the topics](https://github.com/jameskemper/TTU_ECO_GPTIs_TAs/blob/main/Economics%20Teaching%20Workshop%20topic%20list.pdf) for the weekly Teaching Workshop for GPTIs and TAs. Eventually, a resource library will also contain supplemental materials for teaching economics.
