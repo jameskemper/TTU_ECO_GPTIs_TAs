@@ -8,4 +8,4 @@ Here is a [list of the topics](https://github.com/jameskemper/TTU_ECO_GPTIs_TAs/
 
 ### [ECO 2305 Principles of Economics resources](https://github.com/jameskemper/TTU_ECO_GPTIs_TAs/tree/main/ECO_2305_resources)
 
-- [PowerPoints from Fall 2023](https://github.com/jameskemper/TTU_ECO_GPTIs_TAs/tree/main/ECO_2305_resources/Pearson_PP_slides)
+- [PowerPoints from Fall 2023](https://github.com/jameskemper/TTU_ECO_GPTIs_TAs/tree/main/ECO_2305_resources/Pearson_PP_slides) (These slides are from Pearson, and have been edited for my Fall 2023 classes)
